@@ -1,0 +1,7 @@
+<!ENTITY general "Perustiedot">
+<!ENTITY name "Nimi : teksti joka näkyy hakupalkissa">
+<!ENTITY description "Kuvaus:">
+<!ENTITY icon "Kuvake : kuvake näkyy hakupalkissa">
+<!ENTITY browse "Selaa">
+<!ENTITY comment1 "Asetukset valmiit.">
+<!ENTITY comment2 "Jos et näe uutta hakukonetta hakupalkissa, käynnistä selain uudelleen.">

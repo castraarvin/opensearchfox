@@ -1,0 +1,7 @@
+<!ENTITY general "기본">
+<!ENTITY name "이름 : 이 제목은 검색 도구에서 보여집니다.">
+<!ENTITY description "설명 :">
+<!ENTITY icon "아이콘 : 이 아이콘은 검색 도구에서 보여집니다.">
+<!ENTITY browse "찾아보기">
+<!ENTITY comment1 "축하합니다! 설정을 끝마치셨습니다.">
+<!ENTITY comment2 "새로운 검색 엔진이 검색 도구에서 보이지 않는다면, Firefox를 재시작 해주세요.">

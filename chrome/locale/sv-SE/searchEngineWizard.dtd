@@ -1,0 +1,7 @@
+<!ENTITY general "Grundläggande">
+<!ENTITY name "Namn: Texten visas i sökfältet">
+<!ENTITY description "Beskrivning:">
+<!ENTITY icon "Ikon: Ikonen visas i sökfältet">
+<!ENTITY browse "Bläddra">
+<!ENTITY comment1 "Gratulerar! Du har klarat av inställningarna.">
+<!ENTITY comment2 "Om du inte ser den nya sökmotorn i sökfältet, starta om Firefox.">

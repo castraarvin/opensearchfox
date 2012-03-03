@@ -1,0 +1,7 @@
+<!ENTITY general "Einstellungen">
+<!ENTITY name "Name: Der in der Suchleiste angezeigte Text.">
+<!ENTITY description "Beschreibung:">
+<!ENTITY icon "Symbol: Das in der Suchleiste angezeigte Symbol.">
+<!ENTITY browse "Öffnen">
+<!ENTITY comment1 "Gratulation! Alle Einstellungen wurden vorgenommen.">
+<!ENTITY comment2 "Starten Sie Firefox bitte neu, wenn die hinzugefügte Suchmaschine nicht in der Suchleiste angezeigt werden sollte.">

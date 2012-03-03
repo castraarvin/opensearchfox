@@ -1,0 +1,7 @@
+<!ENTITY general "Basis">
+<!ENTITY name "Naam: de tekst wordt weergegeven in de statusbalk">
+<!ENTITY description "Beschrijving:">
+<!ENTITY icon "Pictogram: het pictogram wordt weergegeven in de statusbalk">
+<!ENTITY browse "Bladeren">
+<!ENTITY comment1 "Gefeliciteerd! U hebt de instellingen gemaakt.">
+<!ENTITY comment2 "Als u de nieuwe zoekmachine niet in de zoekbalk ziet, herstart dan Firefox.">

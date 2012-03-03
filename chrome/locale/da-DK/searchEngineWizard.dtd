@@ -1,0 +1,7 @@
+<!ENTITY general "Grundlæggende">
+<!ENTITY name "Navn: Teksten der vises i søgelinien.">
+<!ENTITY description "Beskrivelse:">
+<!ENTITY icon "Ikon: Ikonet der vises i søgelinien.">
+<!ENTITY browse "Gennemse">
+<!ENTITY comment1 "Tillykke! Du har afsluttet indstillingerne.">
+<!ENTITY comment2 "Hvis du ikke kan se den nye søgemaskine i søgelinien, genstart venligst Firefox.">

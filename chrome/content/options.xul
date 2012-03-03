@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://opensearchfox/skin/OpenSearchFox.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://opensearchfox/locale/options.dtd">
+<dialog xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+        id="sewOption"
+        title="OpenSearchFox"
+        minwidth="400"
+        onload="load()"
+        ondialogaccept="save();"
+        buttons="accept, cancel">
+  <groupbox>
+    <checkbox id="option1"
+              label="&option1;" />
+  </groupbox>
+  <script src="chrome://opensearchfox/content/options.js" />
+</dialog>

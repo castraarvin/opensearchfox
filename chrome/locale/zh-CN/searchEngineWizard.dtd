@@ -1,0 +1,7 @@
+<!ENTITY general "基本设置">
+<!ENTITY name "名称：在搜索栏中显示的文字">
+<!ENTITY description "说明：">
+<!ENTITY icon "图标：在搜索栏中显示的图标">
+<!ENTITY browse "浏览">
+<!ENTITY comment1 "祝贺你！你已完成所有设置。">
+<!ENTITY comment2 "如果搜索栏中看不到新增的搜索引擎，请重启Firefox。">

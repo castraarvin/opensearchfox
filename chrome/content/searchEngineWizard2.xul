@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://opensearchfox/skin/OpenSearchFox.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://opensearchfox/locale/searchEngineWizard.dtd">
+<wizard id="OpenSearchFox-window"
+        title="OpenSearchFox"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+        xmlns:html="http://www.w3.org/1999/xhtml"
+        onwizardfinish="return SearchEngineWizard.onDone();">
+//first page
+  <wizardpage id="first_page"
+              onpageadvanced="SearchEngineWizard.parse();"
+              pageid="first-page"
+              next="last-page">
+    <groupbox>
+      <caption label="&general;"/>
+      <grid>
+        <columns>
+          <column flex="1"/>
+        </columns>
+        <rows>
+          <row>
+            <label control="name">&name;</label>
+          </row>
+          <row>
+            <textbox id="name"
+                     maxlength="" />
+          </row>
+          <row>
+            <label control="description">&description;</label>
+          </row>
+          <row>
+            <textbox id="description"
+                     maxlength="1024" />
+          </row>
+          <row>
+            <label control="icon">&icon;</label>
+          </row>
+          <row>
+            <hbox>
+              <button id="icon-picker"
+                      oncommand="SearchEngineWizard.pickIcon(event);">
+              <label>&browse;</label>
+              <image id="icon" />
+              </button>
+            </hbox>
+          </row>
+<!--
+          <row>
+            <label control="searchform">&searchform;</label>
+          </row>
+!-->
+          <row style="display: none;">
+            <textbox id="searchform" />
+          </row>
+
+        </rows>
+      </grid>
+    </groupbox>
+  </wizardpage>
+//last
+  <wizardpage pageid="last-page">
+    <description>
+      &comment1;
+    </description>
+    <description>
+      &comment2;
+    </description>
+    <hbox>
+              <button oncommand="window.open('http://red.hahaha.googlepages.com/donate_osf.htm');"
+                      image="chrome://opensearchfox/skin/x-click-but04.gif" />
+</hbox>
+  </wizardpage>
+  <stringbundleset> 
+    <stringbundle id="msgs" src="chrome://opensearchfox/locale/searchEngineWizard.properties"/>
+  </stringbundleset>
+  <script src="chrome://opensearchfox/content/searchEngineWizard.js" />
+</wizard>

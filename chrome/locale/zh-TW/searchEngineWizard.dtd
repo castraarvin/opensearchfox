@@ -1,0 +1,7 @@
+<!ENTITY general "基本設定">
+<!ENTITY name "名稱：顯示於搜尋列中的文字">
+<!ENTITY description "描述：對搜尋引擎的描述">
+<!ENTITY icon "圖示：顯示於搜尋列中的圖示">
+<!ENTITY browse "瀏覽">
+<!ENTITY comment1 "恭喜你完成了所有的設定！">
+<!ENTITY comment2 "若新增的搜尋引擎不在搜尋列中請重新啟動瀏覽器。">

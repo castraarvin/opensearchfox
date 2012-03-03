@@ -1,0 +1,7 @@
+<!ENTITY general "Dasar">
+<!ENTITY name "Nama : Teks yang akan muncul pada papan pencarian.">
+<!ENTITY description "Keterangan :">
+<!ENTITY icon "Ikon : Gambar yang akan ditampilkan pada papan pencarian.">
+<!ENTITY browse "Jelajah">
+<!ENTITY comment1 "Selamat! Pengaturan telah selesai.">
+<!ENTITY comment2 "Bilamana nama mesin pencari tidak muncul pada papan pencarian, restart-lah terlebih dulu Firefox.">

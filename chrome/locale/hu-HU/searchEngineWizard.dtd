@@ -1,0 +1,7 @@
+<!ENTITY general "Alapbeállítások">
+<!ENTITY name "Név : a keresőszolgáltatások közt ez a név látszik majd">
+<!ENTITY description "Leírás :">
+<!ENTITY icon "Ikon : keresőszolgáltatások közt ez látszik majd">
+<!ENTITY browse "Ikon kiválasztása">
+<!ENTITY comment1 "Gratulálunk! A beállítások befejeződtek.">
+<!ENTITY comment2 "Ha az új kereső nincs a keresőszolgáltatások közt, akkor indítsa újra a Firefoxot.">

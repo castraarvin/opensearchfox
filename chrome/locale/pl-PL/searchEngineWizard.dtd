@@ -1,0 +1,7 @@
+<!ENTITY general "Ogólne">
+<!ENTITY name "Nazwa wyszukiwarki wyświetlana w menu paska szukania">
+<!ENTITY description "Opis">
+<!ENTITY icon "Ikona wyświetlana w pasku szukania">
+<!ENTITY browse "Przeglądaj">
+<!ENTITY comment1 "Gratulacje! Zakończono konfigurację wtyczki wyszukiwarki.">
+<!ENTITY comment2 "Jeśli nowa wyszukiwarka nie pojawiła się w pasku szukania, proszę uruchomić ponownie Firefoksa.">

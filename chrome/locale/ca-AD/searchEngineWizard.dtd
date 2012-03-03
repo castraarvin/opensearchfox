@@ -1,0 +1,7 @@
+<!ENTITY general "Bàsic">
+<!ENTITY name "Nom: el text es mostra a la barra de cerca">
+<!ENTITY description "Descripció:">
+<!ENTITY icon "Icona: La icona es mostra a la barra de cerca">
+<!ENTITY browse "Navega">
+<!ENTITY comment1 "Felicitats.Ja has acabat de configurar els paràmetres">
+<!ENTITY comment2 "Si no veus el nou motor de cerca a la barra de cerca, si us plau reinicia Firefox.">

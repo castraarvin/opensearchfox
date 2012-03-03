@@ -1,0 +1,36 @@
+content  opensearchfox  chrome/content/
+
+overlay  chrome://browser/content/browser.xul chrome://opensearchfox/content/overlay.xul
+
+locale  opensearchfox  bg-BG  chrome/locale/bg-BG/
+locale  opensearchfox  ca-AD  chrome/locale/ca-AD/
+locale  opensearchfox  cs-CZ  chrome/locale/cs-CZ/
+locale  opensearchfox  da-DK  chrome/locale/da-DK/
+locale  opensearchfox  de-DE  chrome/locale/de-DE/
+locale  opensearchfox  el-GR  chrome/locale/el-GR/
+locale  opensearchfox  en-US  chrome/locale/en-US/
+locale  opensearchfox  es-ES  chrome/locale/es-ES/
+locale  opensearchfox  fa-IR  chrome/locale/fa-IR/
+locale  opensearchfox  fi-FI  chrome/locale/fi-FI/
+locale  opensearchfox  fr-FR  chrome/locale/fr-FR/
+locale  opensearchfox  he-IL  chrome/locale/he-IL/
+locale  opensearchfox  hr-HR  chrome/locale/hr-HR/
+locale  opensearchfox  hu-HU  chrome/locale/hu-HU/
+locale  opensearchfox  id-ID  chrome/locale/id-ID/
+locale  opensearchfox  it-IT  chrome/locale/it-IT/
+locale  opensearchfox  ja-JP  chrome/locale/ja-JP/
+locale  opensearchfox  ko-KR  chrome/locale/ko-KR/
+locale  opensearchfox  nb-NO  chrome/locale/nb-NO/
+locale  opensearchfox  nl-NL  chrome/locale/nl-NL/
+locale  opensearchfox  pl-PL  chrome/locale/pl-PL/
+locale  opensearchfox  pt-BR  chrome/locale/pt-BR/
+locale  opensearchfox  pt-PT  chrome/locale/pt-PT/
+locale  opensearchfox  ru-RU  chrome/locale/ru-RU/
+locale  opensearchfox  sk-SK  chrome/locale/sk-SK/
+locale  opensearchfox  sv-SE  chrome/locale/sv-SE/
+locale  opensearchfox  tr-TR  chrome/locale/tr-TR/
+locale  opensearchfox  uk-UA  chrome/locale/uk-UA/
+locale  opensearchfox  zh-CN  chrome/locale/zh-CN/
+locale  opensearchfox  zh-TW  chrome/locale/zh-TW/
+
+skin  opensearchfox  default  chrome/skin/default/

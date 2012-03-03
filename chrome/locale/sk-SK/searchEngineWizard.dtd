@@ -1,0 +1,7 @@
+<!ENTITY general "Základné">
+<!ENTITY name "Názov: Tento text sa zobrazí v paneli vyhľadávania">
+<!ENTITY description "Popis:">
+<!ENTITY icon "Ikona: Ikona, ktorá sa zobrazí vo vyhľadávacom paneli">
+<!ENTITY browse "Prehľadávať">
+<!ENTITY comment1 "Gratujeme! Nastavenie modulu prebehlo úspešne.">
+<!ENTITY comment2 "Ak nový vyhľadávací modul v paneli vyhľadávania nevidíte, reštartujte Firefox.">

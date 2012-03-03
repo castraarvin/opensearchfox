@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="{215e0f30-6801-11db-bd13-0800200c9a66}"
+                   em:version="0.1.5"
+                   em:type="2"
+                   em:name="OpenSearchFox"
+                   em:creator="Milx"
+                   em:developer="Mook"
+                   em:homepageURL="http://mozilla.mirror.pacific.net.au/addons/3698"
+                   em:contributor="kiwidesign"
+                   em:optionsURL="chrome://opensearchfox/content/options.xul"
+                   em:iconURL="chrome://opensearchfox/skin/OSF.png">
+    <em:targetApplication RDF:resource="rdf:#$BIZq51"/>
+    <em:translator>Komsip</em:translator>
+    <em:translator>TLemur</em:translator>
+    <em:translator>Norah</em:translator>
+    <em:translator>Indigo</em:translator>
+    <em:translator>saster</em:translator>
+    <em:translator>jojaba</em:translator>
+    <em:translator>chuzo</em:translator>
+    <em:translator>Starke</em:translator>
+    <em:translator>funTomas</em:translator>
+    <em:translator>el_libre</em:translator>
+    <em:translator>xiaowm</em:translator>
+    <em:translator>AlleyKat</em:translator>
+    <em:translator>BudsieBuds</em:translator>
+    <em:translator>mikkis</em:translator>
+    <em:translator>Sonickydon</em:translator>
+    <em:translator>catcat</em:translator>
+    <em:translator>xx1</em:translator>
+    <em:translator>gandhi2</em:translator>
+    <em:translator>teo</em:translator>
+    <em:translator>Rodrigo Bergmann Laurindo</em:translator>
+    <em:translator>lloco</em:translator>
+    <em:translator>Celikbas</em:translator>
+    <em:translator>wladow</em:translator>
+    <em:translator>arris</em:translator>
+    <em:translator>yaryi</em:translator>
+    <em:translator>Pedram Veisi</em:translator>
+    <em:translator>Krcko</em:translator>
+    <em:translator>eroltooy</em:translator>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$BIZq51"
+                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                   em:minVersion="2.0"
+                   em:oldMaxVersion="3.0.*"
+                   em:maxVersion="3.7a1pre" />
+</RDF:RDF>

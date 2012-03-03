@@ -1,0 +1,7 @@
+<!ENTITY general "Básico">
+<!ENTITY name "Nombre: El texto que se muestra en el desplegable del cuadro de búsqueda.">
+<!ENTITY description "Descripción:">
+<!ENTITY icon "Icono: El icono que se muestra en el desplegable del cuadro de búsqueda.">
+<!ENTITY browse "Elegir">
+<!ENTITY comment1 "Enhorabuena, ha terminado de configurar las opciones.">
+<!ENTITY comment2 "Si no ve el nuevo buscador, reinice Firefox.">
