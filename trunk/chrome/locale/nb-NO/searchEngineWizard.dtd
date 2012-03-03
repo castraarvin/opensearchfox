@@ -1,0 +1,7 @@
+<!ENTITY general "Grunnleggende">
+<!ENTITY name "Navn: Tekst som vises i søkelinjen">
+<!ENTITY description "Beskrivelse:">
+<!ENTITY icon "Ikon: Ikonet som vises i søkelinjen">
+<!ENTITY browse "Bla gjennom">
+<!ENTITY comment1 "Gratulerer! Oppesettet er ferdig.">
+<!ENTITY comment2 "Dersom du ikke ser den nye søkemotoren i søkelinjen, start Firefox på nytt.">

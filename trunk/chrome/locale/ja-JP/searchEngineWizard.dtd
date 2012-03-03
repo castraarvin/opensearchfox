@@ -1,0 +1,7 @@
+<!ENTITY general "標準">
+<!ENTITY name "名前: 検索バーに文字列として表示されます。">
+<!ENTITY description "説明:">
+<!ENTITY icon "アイコン: アイコンは検索バーに表示されます。">
+<!ENTITY browse "参照">
+<!ENTITY comment1 "設定を完了しました!">
+<!ENTITY comment2 "もし検索バーに新しい検索エンジンが追加されていない時は Firefox を再起動してください。">

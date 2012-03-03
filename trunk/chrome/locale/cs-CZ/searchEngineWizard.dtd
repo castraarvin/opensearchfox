@@ -1,0 +1,7 @@
+<!ENTITY general "Základní">
+<!ENTITY name "Název: Tento text se zobrazí v liště vyhledávání">
+<!ENTITY description "Popis:">
+<!ENTITY icon "Ikona: Tento obrázek se zobrazí ve vyhledávacím panelu">
+<!ENTITY browse "Procházet">
+<!ENTITY comment1 "Výborně! Dokončili jste nastavení.">
+<!ENTITY comment2 "Pokud nevidíte tento nový vyhledávač ve vyhledávacím panelu, restartujte prosím Firefox.">

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay SYSTEM "chrome://opensearchfox/locale/overlay.dtd" >
+<overlay id="opensearchfox-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="chrome://opensearchfox/content/overlay.js" />
+  <popup id="contentAreaContextMenu">
+    <menuitem id="opensearchfox-menu"
+              label="&new;"
+              class="menuitem-iconic"
+              image="chrome://opensearchfox/skin/default-engine.png"
+              oncommand="startWizard(gContextMenu.target)" 
+              insertafter="context-keywordfield" />
+  </popup>
+  <script>
+    window.addEventListener("load", SEW_Listener, false);
+  </script>
+</overlay>

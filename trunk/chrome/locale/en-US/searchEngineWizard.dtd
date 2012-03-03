@@ -1,0 +1,7 @@
+<!ENTITY general "Basic">
+<!ENTITY name "Name : The text shows in the search bar">
+<!ENTITY description "Description :">
+<!ENTITY icon "Icon : The icon shows in the search bar">
+<!ENTITY browse "Browse">
+<!ENTITY comment1 "Congratulations! You have finished the settings.">
+<!ENTITY comment2 "If you don&apos;t see the new search engine in search bar, please restart Firefox.">

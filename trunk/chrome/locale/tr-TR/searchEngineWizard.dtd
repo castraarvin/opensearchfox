@@ -1,0 +1,7 @@
+<!ENTITY general "Temel">
+<!ENTITY name "İsim: Arama çubuğunda görülecek metin">
+<!ENTITY description "Tanım:">
+<!ENTITY icon "Simge: Arama çubuğunda görülen simge">
+<!ENTITY browse "Tara">
+<!ENTITY comment1 "Tebrikler! Ayarları bitirdiniz.">
+<!ENTITY comment2 "Eğer arama çubuğunda yeni arama motoronu göremiyorsanız, lütfen firefox&apos;u tekrar başlatın.">

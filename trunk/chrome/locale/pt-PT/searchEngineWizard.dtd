@@ -1,0 +1,7 @@
+<!ENTITY general "Básico">
+<!ENTITY name "Nome: O texto aparece na barra de pesquisa">
+<!ENTITY description "Descrição:">
+<!ENTITY icon "Ícone: O ícone aparece na barra de pesquisa">
+<!ENTITY browse "Explorar">
+<!ENTITY comment1 "Parabéns!Configurado com sucesso.">
+<!ENTITY comment2 "Se não conseguir ver o novo motor de busca na barra de pesquisa, reinicie o Firefox.">
